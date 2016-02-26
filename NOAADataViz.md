@@ -22,7 +22,7 @@ pre {
 
 
 
-Overview: NOAA Visualization App
+Overview: NOAA Data Visualization App
 ========================================================
 <br>
 This is a brief overview of the NOAADataViz Shiny app hosted here:
@@ -67,5 +67,8 @@ The app allows control of the following:
 * **Duration** (range in start and end year) for which to visualize 
 * **Type of Damage** for which to visualize 
   
-Make the appropriate selections and see the output change based on your selections. The **summary** tab provides additional information about the plot.
+Make the appropriate selections and see the output change based on your selections. The **summary** tab provides additional information about the plot.  
+  
+**NOTE:**  
+Depending on the controls selected, the **plot** tab may be empty. Check the summary tab for details.
 
